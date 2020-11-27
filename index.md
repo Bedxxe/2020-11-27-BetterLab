@@ -285,7 +285,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
-** MACHINES  **  
+**MACHINES**  
 Please find your machine in this <a href="https://github.com/BetterLabMx/2020-11-27-BetterLab/blob/gh-pages/AWS-machines.md">machine list</a>
 
 {% comment %}
