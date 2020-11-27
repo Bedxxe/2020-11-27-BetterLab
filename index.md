@@ -285,7 +285,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <hr/>
 
-
+MACHINES  
+Please find your machine in this [machine list](AWS-machines.md)
 {% comment %}
 SCHEDULE
 
