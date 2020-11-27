@@ -1,6 +1,7 @@
 # Workshop computers  
-dcuser data4Carp 
-Ejemplo ssh dcuser@ec2-3-236-144-187.compute-1.amazonaws.com 
+dcuser data4Carp   
+Ejemplo   
+ssh dcuser@ec2-3-236-144-187.compute-1.amazonaws.com   
 ___________________________________________________________
 Mario Iván Alemán Duarte	ec2-34-236-171-243.compute-1.amazonaws.com  
 July Stephany Gámez Valdez	ec2-3-92-91-142.compute-1.amazonaws.com  
