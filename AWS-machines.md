@@ -1,6 +1,8 @@
 # Workshop computers  
-dcuser data4Carp   
-Ejemplo   
+All the participants will have an user name to log in and a password:
+User: dcuser@(Here you will need to complete your AWS computer identifier that is enlisted below)
+Password: data4Carp   
+Example   
 ssh dcuser@ec2-3-236-144-187.compute-1.amazonaws.com   
 ___________________________________________________________
 Mario Iván Alemán Duarte	ec2-34-236-171-243.compute-1.amazonaws.com  
