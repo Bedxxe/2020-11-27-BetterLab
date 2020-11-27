@@ -1,5 +1,5 @@
 # Workshop computers  
-pass: data4Carp 
+dcuser data4Carp 
 ___________________________________________________________
 Mario Iván Alemán Duarte	ec2-34-236-171-243.compute-1.amazonaws.com  
 July Stephany Gámez Valdez	ec2-3-92-91-142.compute-1.amazonaws.com  
